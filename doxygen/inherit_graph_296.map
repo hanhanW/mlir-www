@@ -1,0 +1,30 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structmlir_1_1AffineReadOpInterface_1_1AffineReadOpInterfaceTrait.html" title="mlir::AffineReadOpInterface\l::AffineReadOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="213,5,402,61"/>
+<area shape="rect" id="node4" href="$structmlir_1_1AffineWriteOpInterface_1_1AffineWriteOpInterfaceTrait.html" title="mlir::AffineWriteOpInterface\l::AffineWriteOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="213,85,402,141"/>
+<area shape="rect" id="node6" href="$structmlir_1_1BranchOpInterface_1_1BranchOpInterfaceTrait.html" title="mlir::BranchOpInterface\l::BranchOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="225,165,390,221"/>
+<area shape="rect" id="node8" href="$structmlir_1_1CallableOpInterface_1_1CallableOpInterfaceTrait.html" title="mlir::CallableOpInterface\l::CallableOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="222,245,393,301"/>
+<area shape="rect" id="node10" href="$structmlir_1_1CallOpInterface_1_1CallOpInterfaceTrait.html" title="mlir::CallOpInterface\l::CallOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="234,325,381,381"/>
+<area shape="rect" id="node12" href="$structmlir_1_1DerivedAttributeOpInterface_1_1DerivedAttributeOpInterfaceTrait.html" title="mlir::DerivedAttributeOp\lInterface::DerivedAttributeOp\lInterfaceTrait\&lt; ConcreteOp \&gt;" alt="" coords="211,405,404,461"/>
+<area shape="rect" id="node14" href="$structmlir_1_1InferShapedTypeOpInterface_1_1InferShapedTypeOpInterfaceTrait.html" title="mlir::InferShapedTypeOpInterface\l::InferShapedTypeOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="196,485,419,541"/>
+<area shape="rect" id="node16" href="$structmlir_1_1InferTypeOpInterface_1_1InferTypeOpInterfaceTrait.html" title="mlir::InferTypeOpInterface\l::InferTypeOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="218,565,397,621"/>
+<area shape="rect" id="node18" href="$structmlir_1_1LoopLikeOpInterface_1_1LoopLikeOpInterfaceTrait.html" title="mlir::LoopLikeOpInterface\l::LoopLikeOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="219,645,395,701"/>
+<area shape="rect" id="node20" href="$structmlir_1_1MemoryEffectOpInterface_1_1MemoryEffectOpInterfaceTrait.html" title="mlir::MemoryEffectOpInterface\l::MemoryEffectOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="204,725,411,781"/>
+<area shape="rect" id="node22" href="$structmlir_1_1OpAsmOpInterface_1_1OpAsmOpInterfaceTrait.html" title="mlir::OpAsmOpInterface\l::OpAsmOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="223,805,391,861"/>
+<area shape="rect" id="node24" href="$structmlir_1_1RegionBranchOpInterface_1_1RegionBranchOpInterfaceTrait.html" title="mlir::RegionBranchOpInterface\l::RegionBranchOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="204,885,411,941"/>
+<area shape="rect" id="node26" href="$structmlir_1_1SymbolOpInterface_1_1SymbolOpInterfaceTrait.html" title="mlir::SymbolOpInterface\l::SymbolOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="223,965,391,1021"/>
+<area shape="rect" id="node28" href="$structmlir_1_1ViewLikeOpInterface_1_1ViewLikeOpInterfaceTrait.html" title="mlir::ViewLikeOpInterface\l::ViewLikeOpInterfaceTrait\l\&lt; ConcreteOp \&gt;" alt="" coords="219,1045,396,1101"/>
+<area shape="rect" id="node3" href="$structmlir_1_1AffineReadOpInterface_1_1Trait.html" title="mlir::AffineReadOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="484,13,668,54"/>
+<area shape="rect" id="node5" href="$structmlir_1_1AffineWriteOpInterface_1_1Trait.html" title="mlir::AffineWriteOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="484,93,668,134"/>
+<area shape="rect" id="node7" href="$structmlir_1_1BranchOpInterface_1_1Trait.html" title="mlir::BranchOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="496,173,656,214"/>
+<area shape="rect" id="node9" href="$structmlir_1_1CallableOpInterface_1_1Trait.html" title="mlir::CallableOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="493,253,659,294"/>
+<area shape="rect" id="node11" href="$structmlir_1_1CallOpInterface_1_1Trait.html" title="mlir::CallOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="501,333,651,374"/>
+<area shape="rect" id="node13" href="$structmlir_1_1DerivedAttributeOpInterface_1_1Trait.html" title="mlir::DerivedAttributeOp\lInterface::Trait\&lt; ConcreteOp \&gt;" alt="" coords="475,413,677,454"/>
+<area shape="rect" id="node15" href="$structmlir_1_1InferShapedTypeOpInterface_1_1Trait.html" title="mlir::InferShapedTypeOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="467,493,685,534"/>
+<area shape="rect" id="node17" href="$structmlir_1_1InferTypeOpInterface_1_1Trait.html" title="mlir::InferTypeOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="489,573,663,614"/>
+<area shape="rect" id="node19" href="$structmlir_1_1LoopLikeOpInterface_1_1Trait.html" title="mlir::LoopLikeOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="491,653,661,694"/>
+<area shape="rect" id="node21" href="$structmlir_1_1MemoryEffectOpInterface_1_1Trait.html" title="mlir::MemoryEffectOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="475,733,677,774"/>
+<area shape="rect" id="node23" href="$structmlir_1_1OpAsmOpInterface_1_1Trait.html" title="mlir::OpAsmOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="495,813,657,854"/>
+<area shape="rect" id="node25" href="$structmlir_1_1RegionBranchOpInterface_1_1Trait.html" title="mlir::RegionBranchOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="475,893,677,934"/>
+<area shape="rect" id="node27" href="$structmlir_1_1SymbolOpInterface_1_1Trait.html" title="mlir::SymbolOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="495,973,657,1014"/>
+<area shape="rect" id="node29" href="$structmlir_1_1ViewLikeOpInterface_1_1Trait.html" title="mlir::ViewLikeOpInterface\l::Trait\&lt; ConcreteOp \&gt;" alt="" coords="490,1053,662,1094"/>
+</map>

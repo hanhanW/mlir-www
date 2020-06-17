@@ -1,0 +1,23 @@
+<map id="lib/Dialect/SPIRV/LayoutUtils.cpp" name="lib/Dialect/SPIRV/LayoutUtils.cpp">
+<area shape="rect" id="node2" href="$LayoutUtils_8h.html" title="mlir/Dialect/SPIRV\l/LayoutUtils.h" alt="" coords="634,95,767,136"/>
+<area shape="rect" id="node4" href="$SPIRVDialect_8h.html" title="mlir/Dialect/SPIRV\l/SPIRVDialect.h" alt="" coords="967,95,1101,136"/>
+<area shape="rect" id="node42" href="$SPIRVTypes_8h.html" title="mlir/Dialect/SPIRV\l/SPIRVTypes.h" alt="" coords="557,348,690,389"/>
+<area shape="rect" id="node5" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="1267,191,1385,218"/>
+<area shape="rect" id="node6" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="1301,273,1479,300"/>
+<area shape="rect" id="node7" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="1196,601,1328,628"/>
+<area shape="rect" id="node17" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="582,825,769,852"/>
+<area shape="rect" id="node29" href="$Identifier_8h.html" title="mlir/IR/Identifier.h" alt="" coords="1225,825,1352,852"/>
+<area shape="rect" id="node31" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="1090,527,1215,553"/>
+<area shape="rect" id="node32" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="725,527,837,553"/>
+<area shape="rect" id="node35" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="1290,355,1399,382"/>
+<area shape="rect" id="node8" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="945,676,1115,703"/>
+<area shape="rect" id="node9" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="837,751,991,777"/>
+<area shape="rect" id="node16" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="406,751,617,777"/>
+<area shape="rect" id="node10" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="722,907,863,934"/>
+<area shape="rect" id="node18" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="134,825,331,852"/>
+<area shape="rect" id="node21" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="407,825,557,852"/>
+<area shape="rect" id="node33" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="323,601,473,628"/>
+<area shape="rect" id="node36" href="$UseDefLists_8h.html" title="mlir/IR/UseDefLists.h" alt="" coords="1329,445,1478,471"/>
+<area shape="rect" id="node43" href="$Diagnostics_8h.html" title="mlir/IR/Diagnostics.h" alt="" coords="428,445,573,471"/>
+<area shape="rect" id="node44" href="$StandardTypes_8h.html" title="mlir/IR/StandardTypes.h" alt="" coords="724,445,888,471"/>
+</map>

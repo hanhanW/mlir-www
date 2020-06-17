@@ -1,0 +1,4 @@
+<map id="mlir::OpInterface&lt; ConcreteType, Traits &gt;::Trait&lt; ConcreteOp &gt;" name="mlir::OpInterface&lt; ConcreteType, Traits &gt;::Trait&lt; ConcreteOp &gt;">
+<area shape="rect" id="node2" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ConcreteOp, Trait \&gt;" alt="" coords="21,109,180,151"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="Helper class for implementing traits. " alt="" coords="5,5,196,47"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="mlir::TypeStorage" name="mlir::TypeStorage">
+<area shape="rect" id="node3" href="$structmlir_1_1detail_1_1ComplexTypeStorage.html" title="Complex Type Storage. " alt="" coords="388,5,559,47"/>
+<area shape="rect" id="node4" href="$structmlir_1_1detail_1_1FunctionTypeStorage.html" title="Function Type Storage and Uniquing. " alt="" coords="389,71,558,112"/>
+<area shape="rect" id="node5" href="$structmlir_1_1detail_1_1IntegerTypeStorage.html" title="Integer Type Storage and Uniquing. " alt="" coords="394,136,553,177"/>
+<area shape="rect" id="node6" href="$structmlir_1_1detail_1_1OpaqueTypeStorage.html" title="Opaque Type Storage and Uniquing. " alt="" coords="391,201,555,243"/>
+<area shape="rect" id="node7" href="$structmlir_1_1detail_1_1ShapedTypeStorage.html" title="Shaped Type Storage. " alt="" coords="392,267,555,308"/>
+<area shape="rect" id="node13" href="$structmlir_1_1detail_1_1TupleTypeStorage.html" title="A type representing a collection of other types. " alt="" coords="375,333,571,359"/>
+<area shape="rect" id="node14" href="$structmlir_1_1LLVM_1_1detail_1_1LLVMTypeStorage.html" title="mlir::LLVM::detail\l::LLVMTypeStorage" alt="" coords="404,384,543,425"/>
+<area shape="rect" id="node15" href="$structmlir_1_1quant_1_1detail_1_1QuantizedTypeStorage.html" title="mlir::quant::detail\l::QuantizedTypeStorage" alt="" coords="392,449,555,491"/>
+<area shape="rect" id="node19" href="$structspirv_1_1detail_1_1ArrayTypeStorage.html" title="mlir::spirv::detail\l::ArrayTypeStorage" alt="" coords="406,515,541,556"/>
+<area shape="rect" id="node20" href="$structspirv_1_1detail_1_1CooperativeMatrixTypeStorage.html" title="mlir::spirv::detail\l::CooperativeMatrixTypeStorage" alt="" coords="368,580,579,621"/>
+<area shape="rect" id="node21" href="$structspirv_1_1detail_1_1ImageTypeStorage.html" title="spirv::detail::ImageType\lStorage" alt="" coords="392,645,555,687"/>
+<area shape="rect" id="node22" href="$structspirv_1_1detail_1_1MatrixTypeStorage.html" title="mlir::spirv::detail\l::MatrixTypeStorage" alt="" coords="403,711,543,752"/>
+<area shape="rect" id="node23" href="$structspirv_1_1detail_1_1PointerTypeStorage.html" title="mlir::spirv::detail\l::PointerTypeStorage" alt="" coords="401,776,546,817"/>
+<area shape="rect" id="node24" href="$structspirv_1_1detail_1_1RuntimeArrayTypeStorage.html" title="mlir::spirv::detail\l::RuntimeArrayTypeStorage" alt="" coords="381,841,565,883"/>
+<area shape="rect" id="node25" href="$structspirv_1_1detail_1_1StructTypeStorage.html" title="mlir::spirv::detail\l::StructTypeStorage" alt="" coords="404,907,543,948"/>
+<area shape="rect" id="node2" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,449,147,491"/>
+<area shape="rect" id="node8" href="$structmlir_1_1detail_1_1MemRefTypeStorage.html" title="mlir::detail::MemRefType\lStorage" alt="" coords="647,97,817,139"/>
+<area shape="rect" id="node9" href="$structmlir_1_1detail_1_1RankedTensorTypeStorage.html" title="mlir::detail::RankedTensor\lTypeStorage" alt="" coords="645,163,819,204"/>
+<area shape="rect" id="node10" href="$structmlir_1_1detail_1_1UnrankedMemRefTypeStorage.html" title="Unranked MemRef is a MemRef with unknown rank. " alt="" coords="645,228,819,269"/>
+<area shape="rect" id="node11" href="$structmlir_1_1detail_1_1UnrankedTensorTypeStorage.html" title="mlir::detail::UnrankedTensor\lTypeStorage" alt="" coords="639,293,825,335"/>
+<area shape="rect" id="node12" href="$structmlir_1_1detail_1_1VectorTypeStorage.html" title="Vector Type Storage and Uniquing. " alt="" coords="653,359,811,400"/>
+<area shape="rect" id="node16" href="$structmlir_1_1quant_1_1detail_1_1AnyQuantizedTypeStorage.html" title="mlir::quant::detail\l::AnyQuantizedTypeStorage" alt="" coords="639,424,825,465"/>
+<area shape="rect" id="node17" href="$structmlir_1_1quant_1_1detail_1_1UniformQuantizedPerAxisTypeStorage.html" title="mlir::quant::detail\l::UniformQuantizedPerAxisType\lStorage" alt="" coords="627,490,837,546"/>
+<area shape="rect" id="node18" href="$structmlir_1_1quant_1_1detail_1_1UniformQuantizedTypeStorage.html" title="mlir::quant::detail\l::UniformQuantizedTypeStorage" alt="" coords="627,571,837,612"/>
+</map>

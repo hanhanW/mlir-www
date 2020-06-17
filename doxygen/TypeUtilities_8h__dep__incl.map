@@ -1,0 +1,36 @@
+<map id="include/mlir/IR/TypeUtilities.h" name="include/mlir/IR/TypeUtilities.h">
+<area shape="rect" id="node2" href="$LinalgOps_8h.html" title="include/mlir/Dialect\l/Linalg/IR/LinalgOps.h" alt="" coords="1283,80,1433,121"/>
+<area shape="rect" id="node28" href="$StandardToLLVM_8cpp.html" title="lib/Conversion/StandardTo\lLLVM/StandardToLLVM.cpp" alt="" coords="1458,80,1645,121"/>
+<area shape="rect" id="node29" href="$AVX512Dialect_8cpp.html" title="lib/Dialect/AVX512\l/IR/AVX512Dialect.cpp" alt="" coords="1669,80,1828,121"/>
+<area shape="rect" id="node30" href="$LLVMAVX512Dialect_8cpp.html" title="lib/Dialect/LLVMIR\l/IR/LLVMAVX512Dialect.cpp" alt="" coords="1853,80,2045,121"/>
+<area shape="rect" id="node31" href="$Ops_8cpp.html" title="lib/Dialect/StandardOps\l/IR/Ops.cpp" alt="" coords="2069,80,2229,121"/>
+<area shape="rect" id="node32" href="$Traits_8cpp.html" title="lib/Dialect/Traits.cpp" alt="" coords="2253,87,2396,114"/>
+<area shape="rect" id="node33" href="$VectorOps_8cpp.html" title="lib/Dialect/Vector\l/VectorOps.cpp" alt="" coords="2421,80,2543,121"/>
+<area shape="rect" id="node34" href="$Operation_8cpp.html" title="lib/IR/Operation.cpp" alt="" coords="2567,87,2706,114"/>
+<area shape="rect" id="node35" href="$TypeUtilities_8cpp.html" title="lib/IR/TypeUtilities.cpp" alt="" coords="2730,87,2885,114"/>
+<area shape="rect" id="node3" href="$Dialect_2Linalg_2EDSC_2Builders_8h.html" title="include/mlir/Dialect\l/Linalg/EDSC/Builders.h" alt="" coords="621,169,785,211"/>
+<area shape="rect" id="node5" href="$Fusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Fusion.cpp" alt="" coords="210,348,370,389"/>
+<area shape="rect" id="node6" href="$Loops_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Loops.cpp" alt="" coords="811,437,967,479"/>
+<area shape="rect" id="node7" href="$Promotion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Promotion.cpp" alt="" coords="5,437,185,479"/>
+<area shape="rect" id="node9" href="$Dialect_2Linalg_2Utils_2Utils_8h.html" title="include/mlir/Dialect\l/Linalg/Utils/Utils.h" alt="" coords="829,259,962,300"/>
+<area shape="rect" id="node11" href="$Interchange_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Interchange.cpp" alt="" coords="421,437,610,479"/>
+<area shape="rect" id="node12" href="$Transforms_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Transforms.cpp" alt="" coords="210,437,397,479"/>
+<area shape="rect" id="node13" href="$Vectorization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Vectorization.cpp" alt="" coords="991,437,1189,479"/>
+<area shape="rect" id="node14" href="$LinalgToSPIRV_8cpp.html" title="lib/Conversion/LinalgToSPIRV\l/LinalgToSPIRV.cpp" alt="" coords="983,348,1181,389"/>
+<area shape="rect" id="node15" href="$DropUnitDims_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/DropUnitDims.cpp" alt="" coords="1205,348,1409,389"/>
+<area shape="rect" id="node16" href="$Dialect_2Linalg_2Utils_2Utils_8cpp.html" title="lib/Dialect/Linalg\l/Utils/Utils.cpp" alt="" coords="1433,348,1552,389"/>
+<area shape="rect" id="node18" href="$Linalg_2EDSC_2Intrinsics_8h.html" title="include/mlir/Dialect\l/Linalg/EDSC/Intrinsics.h" alt="" coords="815,169,986,211"/>
+<area shape="rect" id="node19" href="$LinalgOps_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgOps.cpp" alt="" coords="1031,259,1157,300"/>
+<area shape="rect" id="node20" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="1497,177,1681,203"/>
+<area shape="rect" id="node21" href="$LinalgToLLVM_8cpp.html" title="lib/Conversion/LinalgToLLVM\l/LinalgToLLVM.cpp" alt="" coords="1705,169,1897,211"/>
+<area shape="rect" id="node22" href="$LinalgToStandard_8cpp.html" title="lib/Conversion/LinalgToStandard\l/LinalgToStandard.cpp" alt="" coords="1921,169,2131,211"/>
+<area shape="rect" id="node23" href="$DependenceAnalysis_8cpp.html" title="lib/Dialect/Linalg\l/Analysis/DependenceAnalysis.cpp" alt="" coords="2156,169,2384,211"/>
+<area shape="rect" id="node24" href="$LinalgTypes_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgTypes.cpp" alt="" coords="2409,169,2547,211"/>
+<area shape="rect" id="node25" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="2572,169,2741,211"/>
+<area shape="rect" id="node26" href="$TensorsToBuffers_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/TensorsToBuffers.cpp" alt="" coords="2765,169,2991,211"/>
+<area shape="rect" id="node27" href="$BufferPlacement_8cpp.html" title="lib/Transforms/BufferPlacement.cpp" alt="" coords="3015,177,3245,203"/>
+<area shape="rect" id="node4" href="$FoldedIntrinsics_8h.html" title="include/mlir/Dialect\l/Linalg/EDSC/FoldedIntrinsics.h" alt="" coords="595,259,804,300"/>
+<area shape="rect" id="node17" href="$Dialect_2Linalg_2EDSC_2Builders_8cpp.html" title="lib/Dialect/Linalg\l/EDSC/Builders.cpp" alt="" coords="431,259,571,300"/>
+<area shape="rect" id="node8" href="$Tiling_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Tiling.cpp" alt="" coords="634,437,786,479"/>
+<area shape="rect" id="node10" href="$Linalg_2Transforms_2Transforms_8h.html" title="include/mlir/Dialect\l/Linalg/Transforms/Transforms.h" alt="" coords="546,348,757,389"/>
+</map>

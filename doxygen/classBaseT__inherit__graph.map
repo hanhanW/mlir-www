@@ -1,0 +1,50 @@
+<map id="BaseT" name="BaseT">
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1DialectInterfaceBase.html" title="The base class used for all derived interface types. " alt="" coords="113,104,317,145"/>
+<area shape="rect" id="node6" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="128,1786,303,1842"/>
+<area shape="rect" id="node49" href="$classmlir_1_1PassWrapper.html" title="This class provides a CRTP wrapper around a base pass class to define several necessary utility metho..." alt="" coords="146,1867,285,1908"/>
+<area shape="rect" id="node3" href="$classmlir_1_1DialectInlinerInterface.html" title="This is the interface that must be implemented by the dialects of operations to be inlined..." alt="" coords="409,5,588,47"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpAsmDialectInterface.html" title="mlir::OpAsmDialectInterface\l\&lt; OpAsmDialectInterface \&gt;" alt="" coords="405,71,592,112"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OpFolderDialectInterface.html" title="This class defines a dialect interface used to assist the operation folder. " alt="" coords="401,136,597,177"/>
+<area shape="rect" id="node7" href="$classmlir_1_1AffineMapAttr.html" title="mlir::AffineMapAttr\l\&lt; AffineMapAttr, Attribute,\l detail::AffineMapAttributeStorage \&gt;" alt="" coords="383,202,614,258"/>
+<area shape="rect" id="node8" href="$classmlir_1_1ArrayAttr.html" title="Array attributes are lists of other attributes. " alt="" coords="397,282,600,338"/>
+<area shape="rect" id="node9" href="$classmlir_1_1CallSiteLoc.html" title="Represents a location as call site. " alt="" coords="390,362,607,418"/>
+<area shape="rect" id="node10" href="$classmlir_1_1ComplexType.html" title="The &#39;complex&#39; type represents a complex number with a parameterized element type, which is composed o..." alt="" coords="397,442,600,498"/>
+<area shape="rect" id="node11" href="$classmlir_1_1DenseIntOrFPElementsAttr.html" title="An attribute class for specializing behavior of Int and Floating&#45;point densely packed string arrays..." alt="" coords="365,523,632,593"/>
+<area shape="rect" id="node12" href="$classmlir_1_1DenseStringElementsAttr.html" title="An attribute class for representing dense arrays of strings. " alt="" coords="367,617,630,688"/>
+<area shape="rect" id="node13" href="$classmlir_1_1DictionaryAttr.html" title="Dictionary attribute is an attribute that represents a sorted collection of named attribute values..." alt="" coords="383,713,614,769"/>
+<area shape="rect" id="node14" href="$classmlir_1_1FileLineColLoc.html" title="Represents a location derived from a file/line/column location. " alt="" coords="381,793,617,849"/>
+<area shape="rect" id="node15" href="$classmlir_1_1FloatAttr.html" title="mlir::FloatAttr\&lt; FloatAttr,\l Attribute, detail::FloatAttribute\lStorage \&gt;" alt="" coords="399,873,599,929"/>
+<area shape="rect" id="node16" href="$classmlir_1_1FloatType.html" title="mlir::FloatType\&lt; FloatType,\l Type \&gt;" alt="" coords="407,953,590,995"/>
+<area shape="rect" id="node17" href="$classmlir_1_1FunctionType.html" title="Function types map from a list of inputs to a list of results. " alt="" coords="398,1019,599,1075"/>
+<area shape="rect" id="node18" href="$classmlir_1_1FusedLoc.html" title="Represents a value composed of multiple source constructs, with an optional metadata attribute..." alt="" coords="408,1099,589,1155"/>
+<area shape="rect" id="node19" href="$classmlir_1_1IndexType.html" title="Index is a special integer&#45;like type with unknown platform&#45;dependent bit width. " alt="" coords="404,1180,593,1221"/>
+<area shape="rect" id="node20" href="$classmlir_1_1IntegerAttr.html" title="mlir::IntegerAttr\&lt;\l IntegerAttr, Attribute,\l detail::IntegerAttributeStorage \&gt;" alt="" coords="393,1246,604,1302"/>
+<area shape="rect" id="node21" href="$classmlir_1_1IntegerSetAttr.html" title="mlir::IntegerSetAttr\l\&lt; IntegerSetAttr, Attribute,\l detail::IntegerSetAttributeStorage \&gt;" alt="" coords="383,1326,614,1382"/>
+<area shape="rect" id="node22" href="$classmlir_1_1IntegerType.html" title="Integer types can have arbitrary bitwidth up to a large fixed limit. " alt="" coords="403,1406,594,1462"/>
+<area shape="rect" id="node23" href="$classmlir_1_1linalg_1_1RangeType.html" title="A RangeType represents a minimal range abstraction (min, max, step). " alt="" coords="421,1487,577,1528"/>
+<area shape="rect" id="node24" href="$classmlir_1_1LLVM_1_1LLVMType.html" title="mlir::LLVM::LLVMType\l\&lt; LLVMType, mlir::Type,\l detail::LLVMTypeStorage \&gt;" alt="" coords="406,1553,591,1609"/>
+<area shape="rect" id="node25" href="$classmlir_1_1MemRefType.html" title="MemRef types represent a region of memory that have a shape with a fixed number of dimensions..." alt="" coords="398,1633,599,1689"/>
+<area shape="rect" id="node26" href="$classmlir_1_1NameLoc.html" title="Represents an identity name attached to a child location. " alt="" coords="409,1713,588,1769"/>
+<area shape="rect" id="node27" href="$classmlir_1_1NoneType.html" title="NoneType is a unit type, i.e. " alt="" coords="405,1793,592,1835"/>
+<area shape="rect" id="node28" href="$classmlir_1_1OpaqueAttr.html" title="Opaque attributes represent attributes of non&#45;registered dialects. " alt="" coords="408,1859,589,1915"/>
+<area shape="rect" id="node29" href="$classmlir_1_1OpaqueElementsAttr.html" title="An opaque attribute that represents a reference to a vector or tensor constant with opaque content..." alt="" coords="379,1940,618,2011"/>
+<area shape="rect" id="node30" href="$classmlir_1_1OpaqueLoc.html" title="Represents a location that is external to MLIR. " alt="" coords="380,2035,617,2091"/>
+<area shape="rect" id="node31" href="$classmlir_1_1OpaqueType.html" title="Opaque types represent types of non&#45;registered dialects. " alt="" coords="394,2115,603,2171"/>
+<area shape="rect" id="node32" href="$classmlir_1_1quant_1_1AnyQuantizedType.html" title="A quantized type that maps storage to/from expressed types in an unspecified way. ..." alt="" coords="403,2196,594,2267"/>
+<area shape="rect" id="node33" href="$classmlir_1_1quant_1_1UniformQuantizedPerAxisType.html" title="Represents per&#45;axis (also known as per&#45;channel quantization). " alt="" coords="365,2291,632,2361"/>
+<area shape="rect" id="node34" href="$classmlir_1_1quant_1_1UniformQuantizedType.html" title="Represents a family of uniform, quantized types. " alt="" coords="365,2385,632,2456"/>
+<area shape="rect" id="node35" href="$classmlir_1_1RankedTensorType.html" title="Ranked tensor types represent multi&#45;dimensional arrays that have a shape with a fixed number of dimen..." alt="" coords="381,2481,617,2537"/>
+<area shape="rect" id="node36" href="$classmlir_1_1shape_1_1ComponentType.html" title="The component type corresponding to shape, element type and attribute. " alt="" coords="403,2561,594,2603"/>
+<area shape="rect" id="node37" href="$classmlir_1_1shape_1_1ElementType.html" title="The element type of the shaped type. " alt="" coords="413,2627,584,2668"/>
+<area shape="rect" id="node38" href="$classmlir_1_1shape_1_1ShapeType.html" title="The shape descriptor type represents rank and dimension sizes. " alt="" coords="419,2692,579,2733"/>
+<area shape="rect" id="node39" href="$classmlir_1_1shape_1_1SizeType.html" title="The type of a single dimension. " alt="" coords="424,2757,573,2799"/>
+<area shape="rect" id="node40" href="$classmlir_1_1shape_1_1ValueShapeType.html" title="The ValueShape represents a (potentially unknown) runtime value and shape. " alt="" coords="402,2823,595,2864"/>
+<area shape="rect" id="node41" href="$classmlir_1_1shape_1_1WitnessType.html" title="The Witness represents a runtime constraint, to be used as shape related preconditions on code execut..." alt="" coords="413,2888,584,2929"/>
+<area shape="rect" id="node42" href="$classmlir_1_1SparseElementsAttr.html" title="An attribute that represents a reference to a sparse vector or tensor object. " alt="" coords="381,2953,616,3024"/>
+<area shape="rect" id="node43" href="$classmlir_1_1spirv_1_1ArrayType.html" title="mlir::spirv::ArrayType\l\&lt; ArrayType, CompositeType,\l detail::ArrayTypeStorage \&gt;" alt="" coords="399,3049,598,3105"/>
+<area shape="rect" id="node44" href="$classmlir_1_1spirv_1_1CooperativeMatrixNVType.html" title="mlir::spirv::Cooperative\lMatrixNVType\&lt; CooperativeMatrix\lNVType, CompositeType, detail\l::CooperativeMatrixTypeStorage \&gt;" alt="" coords="387,3129,611,3200"/>
+<area shape="rect" id="node45" href="$classmlir_1_1spirv_1_1ImageType.html" title="mlir::spirv::ImageType\l\&lt; ImageType, SPIRVType,\l detail::ImageTypeStorage \&gt;" alt="" coords="405,3225,592,3281"/>
+<area shape="rect" id="node46" href="$classmlir_1_1spirv_1_1InterfaceVarABIAttr.html" title="An attribute that specifies the information regarding the interface variable: descriptor set..." alt="" coords="367,3305,631,3376"/>
+<area shape="rect" id="node47" href="$classmlir_1_1spirv_1_1MatrixType.html" title="mlir::spirv::MatrixType\l\&lt; MatrixType, CompositeType,\l detail::MatrixTypeStorage \&gt;" alt="" coords="397,3401,600,3457"/>
+<area shape="rect" id="node48" href="$classmlir_1_1spirv_1_1PointerType.html" title="mlir::spirv::PointerType\l\&lt; PointerType, SPIRVType,\l detail::PointerTypeStorage \&gt;" alt="" coords="403,3481,595,3537"/>
+</map>

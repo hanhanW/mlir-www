@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1detail_1_1BranchOpInterfaceInterfaceTraits_1_1Concept.html" title="mlir::detail::BranchOpInterface\lInterfaceTraits::Concept" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1BranchOpInterfaceInterfaceTraits_1_1Model.html" title="mlir::detail::BranchOpInterface\lInterfaceTraits::Model\&lt; ConcreteOp \&gt;" alt="" coords="252,5,495,47"/>
+</map>

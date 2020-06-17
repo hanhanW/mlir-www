@@ -1,0 +1,4 @@
+<map id="mlir::edsc::NestedBuilder" name="mlir::edsc::NestedBuilder">
+<area shape="rect" id="node2" href="$classmlir_1_1edsc_1_1BlockBuilder.html" title="A BlockBuilder is a NestedBuilder for mlir::Block*. " alt="" coords="5,80,165,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1edsc_1_1LoopBuilder.html" title="A LoopBuilder is a generic NestedBuilder for loop&#45;like MLIR operations. " alt="" coords="189,80,344,107"/>
+</map>

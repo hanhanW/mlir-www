@@ -1,0 +1,6 @@
+<map id="mlir::DenseIntElementsAttr" name="mlir::DenseIntElementsAttr">
+<area shape="rect" id="node2" href="$classmlir_1_1DenseIntOrFPElementsAttr.html" title="An attribute class for specializing behavior of Int and Floating&#45;point densely packed string arrays..." alt="" coords="556,83,767,110"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="115,5,389,76"/>
+<area shape="rect" id="node4" href="$classBaseT.html" title="BaseT" alt="" coords="5,27,65,54"/>
+<area shape="rect" id="node5" href="$classfriend.html" title="friend" alt="" coords="225,101,279,127"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="include/mlir/Dialect/Quant/QuantOps.h" name="include/mlir/Dialect/Quant/QuantOps.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="5,102,189,129"/>
+<area shape="rect" id="node3" href="$QuantOps_8cpp.html" title="lib/Dialect/Quant/IR\l/QuantOps.cpp" alt="" coords="214,95,351,136"/>
+<area shape="rect" id="node4" href="$Dialect_2Quant_2IR_2TypeParser_8cpp.html" title="lib/Dialect/Quant/IR\l/TypeParser.cpp" alt="" coords="375,95,513,136"/>
+<area shape="rect" id="node5" href="$ConvertConst_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertConst.cpp" alt="" coords="537,95,727,136"/>
+<area shape="rect" id="node6" href="$ConvertSimQuant_8cpp.html" title="lib/Dialect/Quant/Transforms\l/ConvertSimQuant.cpp" alt="" coords="751,95,940,136"/>
+</map>

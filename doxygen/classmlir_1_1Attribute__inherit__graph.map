@@ -1,0 +1,7 @@
+<map id="mlir::Attribute" name="mlir::Attribute">
+<area shape="rect" id="node2" href="$classmlir_1_1BoolAttr.html" title="Special case of IntegerAttr to represent boolean integers, i.e., signless i1 integers. " alt="" coords="5,80,104,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ElementsAttr.html" title="A base attribute that represents a reference to a static shaped tensor or vector constant. " alt="" coords="129,80,255,107"/>
+<area shape="rect" id="node6" href="$classmlir_1_1LocationAttr.html" title="Location objects represent source locations information in MLIR. " alt="" coords="279,80,401,107"/>
+<area shape="rect" id="node4" href="$classmlir_1_1DenseElementsAttr.html" title="An attribute that represents a reference to a dense vector or tensor object. " alt="" coords="109,155,275,181"/>
+<area shape="rect" id="node5" href="$classmlir_1_1SplatElementsAttr.html" title="An attribute that represents a reference to a splat vector or tensor constant, meaning all of the ele..." alt="" coords="113,229,271,256"/>
+</map>

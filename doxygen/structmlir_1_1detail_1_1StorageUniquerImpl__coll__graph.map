@@ -1,0 +1,7 @@
+<map id="mlir::detail::StorageUniquerImpl" name="mlir::detail::StorageUniquerImpl">
+<area shape="rect" id="node2" href="$classmlir_1_1StorageUniquer_1_1StorageAllocator.html" title="This is a utility allocator used to allocate memory for instances of derived types. " alt="" coords="449,5,591,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; HashedStorage,\l StorageKeyInfo \&gt;" alt="" coords="411,123,629,164"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; ValueT,\l ValueInfoT \&gt;" alt="" coords="19,123,189,164"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l mlir::StorageUniquer::\lBaseStorage *\&gt;" alt="" coords="427,189,613,245"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="5,196,203,237"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="mlir::MLIRContextImpl" name="mlir::MLIRContextImpl">
+<area shape="rect" id="node2" href="$classmlir_1_1UnknownLoc.html" title="Represents an unknown location. " alt="" coords="900,251,1027,277"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="434,274,634,315"/>
+<area shape="rect" id="node4" href="$classBaseT.html" title="BaseT" alt="" coords="239,616,299,643"/>
+<area shape="rect" id="node9" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="437,530,631,571"/>
+<area shape="rect" id="node11" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="438,791,630,833"/>
+<area shape="rect" id="node18" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="469,982,599,1023"/>
+<area shape="rect" id="node21" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="437,726,631,767"/>
+<area shape="rect" id="node27" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="419,192,649,248"/>
+<area shape="rect" id="node33" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="420,609,648,650"/>
+<area shape="rect" id="node5" href="$classmlir_1_1DiagnosticEngine.html" title="This class is the main interface for diagnostics. " alt="" coords="887,75,1040,101"/>
+<area shape="rect" id="node6" href="$classmlir_1_1StorageUniquer.html" title="A utility class to get, or create instances of storage classes. " alt="" coords="893,148,1034,175"/>
+<area shape="rect" id="node8" href="$classmlir_1_1NoneType.html" title="NoneType is a unit type, i.e. " alt="" coords="908,499,1019,525"/>
+<area shape="rect" id="node10" href="$classmlir_1_1FloatType.html" title="mlir::FloatType" alt="" coords="909,799,1018,825"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; AffineMap,\l AffineMapKeyInfo \&gt;" alt="" coords="870,302,1057,343"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; ValueT,\l ValueInfoT \&gt;" alt="" coords="449,341,619,382"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; IntegerSet,\l IntegerSetKeyInfo \&gt;" alt="" coords="869,367,1057,409"/>
+<area shape="rect" id="node17" href="$classmlir_1_1UnitAttr.html" title="Unit attributes are attributes that hold no specific value and are given meaning by their existence..." alt="" coords="915,995,1011,1021"/>
+<area shape="rect" id="node20" href="$classmlir_1_1IndexType.html" title="Index is a special integer&#45;like type with unknown platform&#45;dependent bit width. " alt="" coords="907,748,1019,775"/>
+<area shape="rect" id="node32" href="$classmlir_1_1IntegerType.html" title="Integer types can have arbitrary bitwidth up to a large fixed limit. " alt="" coords="903,616,1023,643"/>
+<area shape="rect" id="node23" href="$classllvm_1_1StringSet.html" title="llvm::StringSet\&lt; llvm\l::BumpPtrAllocator &amp;\&gt;" alt="" coords="887,929,1040,970"/>
+<area shape="rect" id="node24" href="$classllvm_1_1StringSet.html" title="llvm::StringSet\&lt; AllocatorTy \&gt;" alt="" coords="435,931,633,957"/>
+<area shape="rect" id="node26" href="$classmlir_1_1DictionaryAttr.html" title="Dictionary attribute is an attribute that represents a sorted collection of named attribute values..." alt="" coords="898,24,1029,51"/>
+<area shape="rect" id="node28" href="$classmlir_1_1BoolAttr.html" title="Special case of IntegerAttr to represent boolean integers, i.e., signless i1 integers. " alt="" coords="914,1048,1013,1075"/>
+<area shape="rect" id="node29" href="$classmlir_1_1Attribute.html" title="Attributes are known&#45;constant values of operations and functions. " alt="" coords="484,1048,584,1075"/>
+<area shape="rect" id="node30" href="$classmlir_1_1AttributeStorage.html" title="Base storage class appearing in an attribute. " alt="" coords="196,1048,341,1075"/>
+<area shape="rect" id="node31" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,1041,147,1082"/>
+<area shape="rect" id="node34" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; mlir\l::TypeID, mlir::Dialect *\&gt;" alt="" coords="879,1099,1047,1141"/>
+<area shape="rect" id="node35" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="435,1099,633,1141"/>
+</map>

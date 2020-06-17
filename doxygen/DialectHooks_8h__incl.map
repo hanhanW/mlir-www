@@ -1,0 +1,18 @@
+<map id="include/mlir/IR/DialectHooks.h" name="include/mlir/IR/DialectHooks.h">
+<area shape="rect" id="node2" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="1331,80,1449,107"/>
+<area shape="rect" id="node3" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="1301,155,1479,181"/>
+<area shape="rect" id="node4" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="1111,453,1243,480"/>
+<area shape="rect" id="node14" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="343,677,530,704"/>
+<area shape="rect" id="node26" href="$Identifier_8h.html" title="mlir/IR/Identifier.h" alt="" coords="699,677,825,704"/>
+<area shape="rect" id="node28" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="1478,379,1603,405"/>
+<area shape="rect" id="node29" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="1385,453,1497,480"/>
+<area shape="rect" id="node32" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="1427,229,1537,256"/>
+<area shape="rect" id="node5" href="$AttributeSupport_8h.html" title="mlir/IR/AttributeSupport.h" alt="" coords="1054,528,1225,555"/>
+<area shape="rect" id="node6" href="$MLIRContext_8h.html" title="mlir/IR/MLIRContext.h" alt="" coords="986,603,1141,629"/>
+<area shape="rect" id="node13" href="$StorageUniquerSupport_8h.html" title="mlir/IR/StorageUniquerSupport.h" alt="" coords="751,603,962,629"/>
+<area shape="rect" id="node7" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="435,759,577,786"/>
+<area shape="rect" id="node15" href="$StorageUniquer_8h.html" title="mlir/Support/StorageUniquer.h" alt="" coords="71,677,269,704"/>
+<area shape="rect" id="node18" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="849,677,1000,704"/>
+<area shape="rect" id="node30" href="$TypeSupport_8h.html" title="mlir/IR/TypeSupport.h" alt="" coords="879,528,1029,555"/>
+<area shape="rect" id="node33" href="$UseDefLists_8h.html" title="mlir/IR/UseDefLists.h" alt="" coords="1522,304,1671,331"/>
+</map>

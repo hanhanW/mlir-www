@@ -1,0 +1,6 @@
+<map id="llvm::DenseMapInfo&lt; T &gt;" name="llvm::DenseMapInfo&lt; T &gt;">
+<area shape="rect" id="node2" href="$structmlir_1_1detail_1_1StorageUniquerImpl_1_1StorageKeyInfo.html" title="Storage info for derived TypeStorage objects. " alt="" coords="385,5,644,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DenseMapInfo.html" title="llvm::DenseMapInfo\l\&lt; PHKind \&gt;" alt="" coords="445,71,584,112"/>
+<area shape="rect" id="node4" href="$structllvm_1_1DenseMapInfo.html" title="llvm::DenseMapInfo\l\&lt; const DialectInterface *\&gt;" alt="" coords="425,136,604,177"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DenseMapInfo.html" title="llvm::DenseMapInfo\l\&lt; HashedStorage \&gt;" alt="" coords="445,201,584,243"/>
+</map>
